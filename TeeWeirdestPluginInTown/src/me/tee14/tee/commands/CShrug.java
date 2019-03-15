@@ -22,3 +22,5 @@ public class CShrug implements CommandExecutor {
 		return true;
 	}
 }
+
+//Used for the /shrug command.

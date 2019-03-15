@@ -12,3 +12,5 @@ public class EDeath implements Listener {
 		event.setDeathMessage("§cPopo wanted to remind " + event.getEntity().getName() + " of their place on the pecking order.");
 	}
 }
+
+//Death messages.

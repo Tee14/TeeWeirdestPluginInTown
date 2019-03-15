@@ -25,3 +25,5 @@ public class CSuidice implements CommandExecutor {
 		return true;
 	}
 }
+
+//My favorite command, one that shoots you up 5000 blocks relative to your current X and Z position.

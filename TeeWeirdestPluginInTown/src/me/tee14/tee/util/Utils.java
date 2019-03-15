@@ -12,3 +12,5 @@ public class Utils {
 		Bukkit.broadcastMessage(player.getDisplayName() + " §3§l> " + message);
 	}
 }
+
+//Used to send out colored messages, regardless of permissions.
