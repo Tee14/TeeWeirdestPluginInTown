@@ -1,0 +1,11 @@
+name: TeeWeirdestPluginInTown
+main: me.tee14.tee.main.Tee
+version: 1.2
+depend: [PermissionsEx]
+author: Tee14
+
+commands:
+  shrug:
+    description: ¯\_(ツ)_/¯
+  suidice:
+    description: Gotta Blast!
